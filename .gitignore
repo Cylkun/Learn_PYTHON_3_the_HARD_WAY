@@ -1,0 +1,7 @@
+temp.py
+temp.ipynb
+
+.ipynb_checkpoints
+.vscode
+.data
+__pycache__
